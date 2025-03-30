@@ -9,15 +9,3 @@ C:\Users\yarek\Рабочий стол\учеба\сишка\docum_dll\obj\Debug
 C:\Users\yarek\Рабочий стол\учеба\сишка\docum_dll\obj\Debug\net8.0\refint\docum_dll.dll
 C:\Users\yarek\Рабочий стол\учеба\сишка\docum_dll\obj\Debug\net8.0\docum_dll.pdb
 C:\Users\yarek\Рабочий стол\учеба\сишка\docum_dll\obj\Debug\net8.0\ref\docum_dll.dll
-C:\Users\yarek\Рабочий стол\учеба\сишка\docum\docum_dll\bin\Debug\net8.0\docum_dll.deps.json
-C:\Users\yarek\Рабочий стол\учеба\сишка\docum\docum_dll\bin\Debug\net8.0\docum_dll.dll
-C:\Users\yarek\Рабочий стол\учеба\сишка\docum\docum_dll\bin\Debug\net8.0\docum_dll.pdb
-C:\Users\yarek\Рабочий стол\учеба\сишка\docum\docum_dll\obj\Debug\net8.0\docum_dll.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\yarek\Рабочий стол\учеба\сишка\docum\docum_dll\obj\Debug\net8.0\docum_dll.AssemblyInfoInputs.cache
-C:\Users\yarek\Рабочий стол\учеба\сишка\docum\docum_dll\obj\Debug\net8.0\docum_dll.AssemblyInfo.cs
-C:\Users\yarek\Рабочий стол\учеба\сишка\docum\docum_dll\obj\Debug\net8.0\docum_dll.csproj.CoreCompileInputs.cache
-C:\Users\yarek\Рабочий стол\учеба\сишка\docum\docum_dll\obj\Debug\net8.0\docum_dll.sourcelink.json
-C:\Users\yarek\Рабочий стол\учеба\сишка\docum\docum_dll\obj\Debug\net8.0\docum_dll.dll
-C:\Users\yarek\Рабочий стол\учеба\сишка\docum\docum_dll\obj\Debug\net8.0\refint\docum_dll.dll
-C:\Users\yarek\Рабочий стол\учеба\сишка\docum\docum_dll\obj\Debug\net8.0\docum_dll.pdb
-C:\Users\yarek\Рабочий стол\учеба\сишка\docum\docum_dll\obj\Debug\net8.0\ref\docum_dll.dll

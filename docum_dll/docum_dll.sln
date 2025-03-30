@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docum_dll", "docum_dll.csproj", "{75F24B91-A04D-4A6A-A35D-3949ACBD24E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docum_test", "..\docum_test\docum_test.csproj", "{1CB84EA1-D4F3-40BB-9143-84BB809CD816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docum_main", "..\docum_main\docum_main.csproj", "{005344A6-33A9-4212-968B-64CC55B4DA48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1CB84EA1-D4F3-40BB-9143-84BB809CD816}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CB84EA1-D4F3-40BB-9143-84BB809CD816}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CB84EA1-D4F3-40BB-9143-84BB809CD816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{005344A6-33A9-4212-968B-64CC55B4DA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005344A6-33A9-4212-968B-64CC55B4DA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005344A6-33A9-4212-968B-64CC55B4DA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005344A6-33A9-4212-968B-64CC55B4DA48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
