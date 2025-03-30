@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("docum_dll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5087feeb03764fb3efcadbfe5eca342f027bc2da")]
 [assembly: System.Reflection.AssemblyProductAttribute("docum_dll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("docum_dll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

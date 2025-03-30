@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum_test\\docum_test.csproj": {}
+    "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum\\docum_test\\docum_test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum_dll\\docum_dll.csproj": {
+    "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum\\docum_dll\\docum_dll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum_dll\\docum_dll.csproj",
+        "projectUniqueName": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum\\docum_dll\\docum_dll.csproj",
         "projectName": "docum_dll",
-        "projectPath": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum_dll\\docum_dll.csproj",
+        "projectPath": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum\\docum_dll\\docum_dll.csproj",
         "packagesPath": "C:\\Users\\yarek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum_dll\\obj\\",
+        "outputPath": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum\\docum_dll\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum_test\\docum_test.csproj": {
+    "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum\\docum_test\\docum_test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum_test\\docum_test.csproj",
+        "projectUniqueName": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum\\docum_test\\docum_test.csproj",
         "projectName": "docum_test",
-        "projectPath": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum_test\\docum_test.csproj",
+        "projectPath": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum\\docum_test\\docum_test.csproj",
         "packagesPath": "C:\\Users\\yarek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum_test\\obj\\",
+        "outputPath": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum\\docum_test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum_dll\\docum_dll.csproj": {
-                "projectPath": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum_dll\\docum_dll.csproj"
+              "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum\\docum_dll\\docum_dll.csproj": {
+                "projectPath": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum\\docum_dll\\docum_dll.csproj"
               }
             }
           }

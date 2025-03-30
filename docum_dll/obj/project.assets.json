@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum_dll\\docum_dll.csproj",
+      "projectUniqueName": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum\\docum_dll\\docum_dll.csproj",
       "projectName": "docum_dll",
-      "projectPath": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum_dll\\docum_dll.csproj",
+      "projectPath": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum\\docum_dll\\docum_dll.csproj",
       "packagesPath": "C:\\Users\\yarek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum_dll\\obj\\",
+      "outputPath": "C:\\Users\\yarek\\Рабочий стол\\учеба\\сишка\\docum\\docum_dll\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
