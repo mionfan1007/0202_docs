@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("docum_main")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("docum_test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbe1a525dff3fd766c2c2d4562521748aa5be23d")]
-[assembly: System.Reflection.AssemblyProductAttribute("docum_main")]
-[assembly: System.Reflection.AssemblyTitleAttribute("docum_main")]
+[assembly: System.Reflection.AssemblyProductAttribute("docum_test")]
+[assembly: System.Reflection.AssemblyTitleAttribute("docum_test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

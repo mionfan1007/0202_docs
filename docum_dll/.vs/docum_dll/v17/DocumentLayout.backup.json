@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\yarek\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0441\u0438\u0448\u043A\u0430\\docum\\docum_dll\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EBDD5249-D0D8-4B3A-AE8C-CAFAE4BBC5CD}|..\\docum_main\\docum_main.csproj|c:\\users\\yarek\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0441\u0438\u0448\u043A\u0430\\docum\\docum_main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1CB84EA1-D4F3-40BB-9143-84BB809CD816}|..\\docum_test\\docum_test.csproj|c:\\users\\yarek\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0441\u0438\u0448\u043A\u0430\\docum\\docum_test\\testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,11 +20,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ListMethods.cs",
               "DocumentMoniker": "C:\\Users\\yarek\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0441\u0438\u0448\u043A\u0430\\docum\\docum_dll\\ListMethods.cs",
               "RelativeDocumentMoniker": "ListMethods.cs",
@@ -35,15 +38,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Testing.cs",
               "DocumentMoniker": "C:\\Users\\yarek\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0441\u0438\u0448\u043A\u0430\\docum\\docum_test\\Testing.cs",
               "RelativeDocumentMoniker": "..\\docum_test\\Testing.cs",
               "ToolTip": "C:\\Users\\yarek\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0441\u0438\u0448\u043A\u0430\\docum\\docum_test\\Testing.cs",
               "RelativeToolTip": "..\\docum_test\\Testing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T11:10:33.907Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yarek\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0441\u0438\u0448\u043A\u0430\\docum\\docum_main\\Program.cs",
+              "RelativeDocumentMoniker": "..\\docum_main\\Program.cs",
+              "ToolTip": "C:\\Users\\yarek\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0441\u0438\u0448\u043A\u0430\\docum\\docum_main\\Program.cs",
+              "RelativeToolTip": "..\\docum_main\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:26:13.776Z",
               "IsPinned": true,
               "EditorCaption": ""
             }
