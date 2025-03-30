@@ -57,7 +57,7 @@ jobs:
 
     env:
       Solution_Name: docum_dll/docum_dll.sln  # Replace with your solution name, i.e. MyWpfApp.sln.
-      Test_Project_Path: https://github.com/mionfan1007/0202_docs/tree/main/docum_test # Replace with the path to your test project, i.e. MyWpfApp.Tests\MyWpfApp.Tests.csproj.
+      Test_Project_Path: docum_test/docum_test.csproj # Replace with the path to your test project, i.e. MyWpfApp.Tests\MyWpfApp.Tests.csproj.
       Wap_Project_Directory: your-wap-project-directory-name    # Replace with the Wap project directory relative to the solution, i.e. MyWpfApp.Package.
       Wap_Project_Path: your-wap-project-path                   # Replace with the path to your Wap project, i.e. MyWpf.App.Package\MyWpfApp.Package.wapproj.
 
