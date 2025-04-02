@@ -81,5 +81,5 @@ jobs:
     # Execute all unit tests in the solution
     - name: Execute unit tests
       run: dotnet test
-      working-directory: docum_dll\docum_dll.sln
+      working-directory: docum_dll\
 
